@@ -35,4 +35,4 @@ This project is a simple *Airline Ticket Booking System* developed using *Core J
 
 ---
 
-## 🏗 Project Structure
+
